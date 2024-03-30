@@ -1,0 +1,44 @@
+.pera {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: underline green 5px;
+    text-transform: capitalize;
+    line-height: 40px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: rgb(255, 0, 212);
+    background-color: lightpink;
+}
+
+.k{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: underline green 5px;
+    text-transform: capitalize;
+    line-height: 40px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: rgb(255, 0, 212);
+    background-color: aqua ;
+}
+
+#p2{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+    text-decoration: underline green 5px;
+    text-transform: capitalize;
+    line-height: 40px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    color: rgb(255, 0, 212);
+    background-color:red;
+}

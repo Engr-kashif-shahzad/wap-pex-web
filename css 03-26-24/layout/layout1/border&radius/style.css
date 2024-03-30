@@ -1,0 +1,25 @@
+.border{
+    width: 400px;
+    height: 300px;
+    margin: 0px auto;
+    background-color: blueviolet;
+    /* border: 10px chocolate solid ; */
+    border-top: 10px coral solid;
+    border-bottom: 20px crimson double;
+    border-left: 5px chartreuse dotted;
+    border-right: 15px cornflowerblue solid;
+
+}
+.border1{
+    width: 400px;
+    height: 300px;
+    margin: 0px auto;
+    margin-top: 40px;
+    background-color: aqua;
+    border-top-left-radius: 130px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 90px;
+    border-bottom-right-radius:150px ;
+    border: 10px chocolate dotted;
+
+}
