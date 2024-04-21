@@ -1,0 +1,10 @@
+@import url(./footer.css);
+@import url(./header.css);
+@import url(./sidebar.css);
+@import url(./body.css);
+.main{
+    width: 1000%;
+    height: auto;
+    background-color: black;
+    margin: 0px auto;
+}

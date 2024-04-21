@@ -1,0 +1,11 @@
+.box{
+    width: 400px;
+    min-height: 400px;
+    margin: 0px auto;
+    background-color: aqua;
+    box-sizing: border-box;
+    font-size: 18px;
+    padding: 30px;
+    text-align: justify;
+     overflow: auto;
+}

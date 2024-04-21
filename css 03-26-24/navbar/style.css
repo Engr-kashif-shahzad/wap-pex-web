@@ -1,7 +1,9 @@
 .navbar{
     width: 100%;
     height: 70px;
-    background-color: black;
+    background-color: rgb(205, 113, 113);
+    color: bisque;
+    font-size: 20px;
     padding: 0px;
     margin: 0px;
 
@@ -9,14 +11,18 @@
 .navbar ul li a{
     text-decoration: none;
 }
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .navbar ul li {
-    list-style: none;
-    
+    list-style-type: none;
     float: left;
-    padding: 30px 30px;
+    padding:23.5px 80px;
 }
 .navbar ul li:hover{  
-    background-color: aliceblue;
+    background-color: rgb(17, 102, 176);
+    opacity: 1;
 
 
 }
@@ -26,7 +32,8 @@
     background-color: rgb(50, 87, 75);
     margin-top: 30px;
 }
-.box:hover{background-color: aqua;
-    opacity: .5;
 
+.box :hover{
+    background-color: rgb(198, 85, 85);
+    
 }

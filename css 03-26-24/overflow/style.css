@@ -1,0 +1,26 @@
+.box {
+    width: 500px;
+    height: 400px;
+    background-color: aqua;
+    margin: 0px auto;
+    text-align: justify;
+    text-transform: capitalize;
+    font-size: 18px;
+    padding: 20px;
+    box-sizing: border-box;
+    /* overflow-x: hidden;
+    overflow-y: auto; */
+    overflow: auto;
+}
+.box::-webkit-scrollbar{
+    width: 5px;
+    height: 5px;
+}
+/* .box::-webkit-scrollbar-track{
+    background-color: black;
+} */
+.box::-webkit-scrollbar-thumb{
+    background-color:lightgrey;
+    border-radius: 10px;
+   
+}

@@ -1,0 +1,20 @@
+.box{
+    width: 400px;
+    height: 300px;
+    background-color: aqua;
+    /* position: relative;
+    top: -400px; */
+    /* position: absolute;
+    top: 50px; */
+    /* position: fixed;
+    top: 60px; */
+    /* position: static;
+    top: 50px; */
+    /* position: sticky;
+    top: 40px; */
+    /* display: block;
+    top: 30px; */
+    /* display: inline;
+    top: 30px; */
+    
+}

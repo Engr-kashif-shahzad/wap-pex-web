@@ -1,0 +1,12 @@
+.content{
+    width: 600px;
+    height: 400px;
+    background-color: blueviolet;
+}
+.sidebar{
+    width: 400px;
+    height: 400px;
+    background-color: brown;
+    margin-top: -400px;
+    float: right;
+}
